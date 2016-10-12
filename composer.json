@@ -1,0 +1,20 @@
+{
+    "name": "iwal/Dashboard-lib",
+    "description": "iWal Dashboard-lib",
+	"version": "2.0.0-RC1",
+	"type": "project",
+	"time": "2016-10-12",
+	"authors" : [
+		{
+			"name": "Aurelien PONCINI",
+			"email" : "aurelien.poncini@web4all.fr",
+			"homepage": "https://www.web4all.fr",
+			"role": "Author"
+		}
+	],
+	"support": {
+        "email": "cga@web4all.fr",
+        "docs": "https://docs.web4all.fr/display/PRIVEiWal"
+    },
+	"homepage": "https://manager.web4all.fr"
+}
