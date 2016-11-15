@@ -1,9 +1,9 @@
 {
     "name": "iwal/dashboard-lib",
     "description": "iWal Dashboard-lib",
-	"version": "2.0.0-RC1",
+	"version": "2.0.0-RC2",
 	"type": "library",
-	"time": "2016-10-12",
+	"time": "2016-11-15",
 	"authors" : [
 		{
 			"name": "Aurelien PONCINI",
