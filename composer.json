@@ -1,20 +1,20 @@
 {
     "name": "iwal/dashboard-lib",
     "description": "iWal Dashboard-lib",
-	"version": "2.0.0-RC2",
+	"version": "2.0.10",
 	"type": "library",
-	"time": "2016-11-15",
+	"time": "2017-08-03",
 	"authors" : [
 		{
 			"name": "Aurelien PONCINI",
-			"email" : "aurelien.poncini@web4all.fr",
-			"homepage": "https://www.web4all.fr",
+			"email" : "aurelien.poncini@yulpa.io",
+			"homepage": "https://yulpa.io",
 			"role": "Author"
 		}
 	],
 	"support": {
-        "email": "cga@web4all.fr",
-        "docs": "https://docs.web4all.fr/display/PRIVEiWal"
+        "email": "support@yulpa.io",
+        "docs": "https://docs.yulpa.io/display/PRIVEiWal"
     },
-	"homepage": "https://manager.web4all.fr"
+	"homepage": "https://my.yulpa.io"
 }
